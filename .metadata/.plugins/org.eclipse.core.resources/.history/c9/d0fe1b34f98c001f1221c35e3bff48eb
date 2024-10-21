@@ -1,0 +1,11 @@
+package lab1;
+
+public abstract class Rectangle extends Shape {
+	
+
+	Rectangle(int sides) {
+		super(sides);
+		
+	}
+
+}

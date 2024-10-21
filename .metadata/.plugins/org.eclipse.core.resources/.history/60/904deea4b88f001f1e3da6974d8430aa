@@ -1,0 +1,18 @@
+package lab1;
+
+public class Circle extends Shape {
+
+	Circle(int sides) {
+		super(sides);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public int getArea() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+
+
+}
